@@ -1,0 +1,79 @@
+## Check the formatting at this website
+## http://www.yamllint.com/
+## The # signifies a comment, and is ignored by parsers, but can be read by humans
+# This is an example to show how the kets are structured. : denotes a new space essentially and you can see
+# below how the structure becomes a tree, i.e. its not flat, but readable.
+councilArea : 
+  SubCatagoryHeading :
+    desc  : ""
+    links : 
+      CatagoryName:
+        web  : "Optional Web adress"
+        fb   : "Optional facebook link"
+        tw   : "Optional twitter link"
+        tel  : "Optional Landline"
+        mob  : "Optional Mobile number"
+        email: "Optional Email address"
+        desc : "Optional description"
+
+midlothian :
+  "All about Covid-19 in UK Info":
+    desc : "During these unprecedented events track whats going on locally with COVID-19"
+    links : 
+      RoslinCv19Resiliance:
+        web : "www.facebook.com/groups/2840082389420608"
+        desc: "Facebook Group for all things local Cv19"
+      RoslinGpSurgery:
+        web : "www.roslinmedicalpractice.co.uk"
+        desc: "Roslin Gp Surgery"
+      "NHS UK Cv19":
+        web : "www.111.nhs.uk/covid-19/"
+        desc: "NHS UK Information"
+      "NHS Scot Cv19":
+        web : "www.nhsinform.scot/coronavirus"
+        desc: "NHS Scotland Information"
+      "WHO Latest":
+        web : "www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+        desc: "World Health Organisation latest updates"
+      "UK Gov Cv19 Stats":
+        web : "www.gov.uk/government/publications/covid-19-track-coronavirus-cases"
+        desc: "UK government statistics. CSV's available for download"
+      "RV AtHome":
+        web : "www.roslinvillage.com/athome"
+        desc: "Links to stuff to do for all ages"
+
+  "Personal protection": 
+    desc  : ""
+    links : 
+     "DIY Mask":
+        web : "www.smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus"
+        desc: "Test of materials to make a facemask"
+     "Mask effectiveness":
+        web : "www.smartairfilters.com/en/blog/n95-mask-surgical-prevent-transmission-coronavirus"
+        desc: "What facemasks work best at preventing transmission"
+  "Facebook Groups (Roslin and local area)": 
+    desc  : ""
+    links : 
+      "Roslin Coranvirus Resilience":
+        web : "www.facebook.com/groups/2840082389420608/"
+        desc : "Local Roslin Coronavirus Resilience"
+
+      "Roslin Share":
+        web  : "www.facebook.com/groups/380562265421991/"
+        desc : "Local Roslin sharing site"
+
+      "Penicuik Ambassadors" :
+        web  : "https://www.facebook.com/Penicuik-Ambassadors-104874047820370/"
+        desc : "Local Penicuik Coronavirus Resilience"
+      ## etc, this list can keep growing
+
+  "Community Groups":
+    desc  : ""
+    links : 
+      "Red Cross Penicuik" : 
+         tel : "01316540340"
+         desc: "Telephone welfare calls and emergency food shopping for people"
+      "Changeworks Affordable Warmth" : 
+         email : warmth@changeworks.org.uk
+         desc  : "Stopped doing home visits. They can still help clients over the phone or online"
+
