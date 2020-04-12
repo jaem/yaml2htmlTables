@@ -1,0 +1,361 @@
+<h4>DIY</h4>
+There is always room for home improvements, or maybe build your own log cabin
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/watch?v=E_6b_cwuB6A">Off Grid Log Cabin</a></td>
+<td width="70%">Building a log cabin with a chainsaw, getting the walls up.</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Kids Courses Free</h4>
+Note. some of these are American, in naming, grade for example.
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://allinonehomeschool.com">Homeschool curriculum</a></td>
+<td width="70%">Free Christian Homeschool curriculum
+</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://classroommagazines.scholastic.com/support/learnathome.html/">Scholastic</a></td>
+<td width="70%">Scholastic has created a free learn-from-home site with 20+ days of learning and activities
+</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://allinonehomeschool.com/thinking">thinking games by grade</a></td>
+<td width="70%">List of thinking games by grade by allinonehomeschool</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Kids Courses Freeish</h4>
+More free(ish) learning websites. Let us know if you think any should be removed.
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://www.abcya.com">abcya</a></td>
+<td width="70%">Educational Games for Kids</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.coolmath4kids.com">coolmath4kids</a></td>
+<td width="70%">Math games for kids</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.e-learningforkids.org">e-learningforkids</a></td>
+<td width="70%">Free and fun digital education for all children worldwide</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.funbrain.com">funbrain</a></td>
+<td width="70%">More learning games for kids</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.highlightskids.com">highlightskids</a></td>
+<td width="70%">Activities and games for kids</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://kids.nationalgeographic.com">nationalgeographic</a></td>
+<td width="70%">Find engaging and curriculum-led teaching ideas and accompanying resource sheets aligned with the National Curriculum and the Scottish Curriculum for Excellence</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://pbskids.org">pbskids</a></td>
+<td width="70%">PBS KIDS is committed to making a positive impact on the lives of children through curriculum based entertainment</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.sciencekids.co.nz">sciencekids</a></td>
+<td width="70%">Science Kids is the online home of science & technology for children around the world.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.seussville.com">seussville</a></td>
+<td width="70%">All things Dr Seuss</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.starfall.com">starfall</a></td>
+<td width="70%">At Starfall, children have fun while they learn.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.storylineonline.net">storylineonline</a></td>
+<td width="70%">Award-winning childrens literacy website</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.switchzoo.com">switchzoo</a></td>
+<td width="70%">Animal games</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.turtlediary.com">turtlediary</a></td>
+<td width="70%">Fun Educational and Online Games for Kids</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.uniteforliteracy.com">uniteforliteracy</a></td>
+<td width="70%">At Unite for Literacy, we picture a world where all children have access to an abundance of books that celebrate their languages and cultures and cultivate a lifelong love of reading.</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Kids Online Resources</h4>
+Kids Learning (some Harvested from RoslinCoronaVirusResiliance FB.)
+Not all of these are free, but offer free content alongside couurses etc.
+
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://www.beastacademy.com">BeastAcademy</a></td>
+<td width="70%">A Complete Math Curriculum Recommended for Ages 8 to 13</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.creativebug.com/">CreativeBug</a></td>
+<td width="70%">Keep your hands active and your mind engaged with Creativebug</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.curriculumassociates.com/supporting-students-away-from-school">CurriculumAssociates</a></td>
+<td width="70%">Printable At-Home Learning Activity Packs</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.discoveryeducation.co.uk/">DiscoveryEducation</a></td>
+<td width="70%">Discovery Education is a trusted partner for schools.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.khanacademy.org/">KhanAcademy</a></td>
+<td width="70%">A nonprofit with the mission to provide a free, world class education for anyone, anywhere</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://outschool.com/">Outschool</a></td>
+<td width="70%"></td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.brainpop.com">brainpop</a></td>
+<td width="70%">BrainPOP is here to help you and your curious learners stay informed and on-track with free access during school closures</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.tynker.com/">tynker</a></td>
+<td width="70%">Coding Made Easy. Everything needed to learn computer programming the fun way! Ages 5+</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Kids YouTube Channels</h4>
+Kids Learning (some Harvested from RoslinCoronaVirusResiliance FB)
+Some of these really are awesome!!!!
+
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/user/crashcoursekids/videos">Crash Course Kids</a></td>
+<td width="70%">This bi-weekly show from the producers of Crash Course is all about gradeschool science. We'll look at Earth, Habitats, Space, Chemical Reactions, Engineering, and much much more with host Sabrina Cruz. So, join us every Tuesday and Thursday for new uploads</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/user/watchfreeschool/videos">Free School</a></td>
+<td width="70%">FreeSchool is a safe and friendly place to expose children to famous art, classical music, children's literature, and natural science in an age-appropriate and kid-accessible way</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/user/GeekGurlDiaries/videos">Geek Gurl Diaries</a></td>
+<td width="70%">Like Raspberry Pi, Arduino, Python, Programming, Computer Science, Logic, Electronics, and being geeky and awesome? I do, so I started to make videos for people like me!</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/channel/UC8HYERScBt-e0kV0fpe0asg/videos">Geography Focus</a></td>
+<td width="70%">The GEOfocus channel is all about geography! I love geography, maps, flags, culture, languages, and travel.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/channel/UC7EFWpvc1wYuUwrtZ_BLi9A/videos">Kids Learning Tube</a></td>
+<td width="70%">Kids Learning Tube educates kids through music and animation in a fun and unique approach to learning.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/user/comaniddy/videos">Mike Likes Science</a></td>
+<td width="70%">Hi I'm Mike! Welcome to my YouTube channel. I like learning and helping people learn. So every month or so, I make science inspired music videos.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg/videos">National Geographic Kids</a></td>
+<td width="70%">Nat Geo Kids makes it fun to explore your world with weird, wild, and wacky videos! Videos featuring awesome animals, cool science, funny pets, and more, are made just for curious kids like you.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/user/scishow/videos">SciShow</a></td>
+<td width="70%">SciShow explores the unexpected. Seven days a week, Hank Green, Michael Aranda, and Olivia Gordon delve into the scientific subjects that defy our expectations and make us even more curious!</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/user/scishowkids/videos">SciShow Kids</a></td>
+<td width="70%">SciShow Kids explores all those curious topics that make us ask why?</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/user/ScienceChannel/videos">Science Channel</a></td>
+<td width="70%">Learn about outer space, leading scientific exploration, new technology, earth science basics, & more with science videos & news from Science Channel</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw/videos">Science Max</a></td>
+<td width="70%">Have you ever done a science experiment and wondered What would this be like if it were HUGE?</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/user/soulpancake/videos">SoulPancake</a></td>
+<td width="70%">SoulPancake tackles the universality of the human experience. We are the dreamers, misfits, artists, activists, and innovators who have the power to positively change the world.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/user/thebrainscoop/videos">TheBrainScoop</a></td>
+<td width="70%">I'm Emily, the Chief Curiosity Correspondent of The Field Museum in Chicago, former volunteer of the University of Montana Zoological Museum.</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Kung Fu</h4>
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/watch?v=0YnEm1zaUyE">Grandmaster Yip Man</a></td>
+<td width="70%">The first FREE release of Ip Man doing the 3 forms Sil Lim Tao, Chum Kiu and Mok Jang Jong in High Quality</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://youtu.be/yYmIIU8qRhQ">Wing Chun: Muk Jong</a></td>
+<td width="70%">Wing Chun Muk Jong (Wooden Dummy)</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/watch?v=UBrYwToDq94">Wing Chun: Siu Nim Tao</a></td>
+<td width="70%">An analysis of the first part of Siu Nim Tao</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Programming</h4>
+Ok, this is a massive topic, but applicable to so many situations in life. 
+Use these skills in your spreadsheets, make games, or just try and keep up 
+with your kids for a bit.
+
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://www.facebook.com/groups/380562265421991">Ask on RoslinShare</a></td>
+<td width="70%">There are plenty coding resources online and coders in the Village, if you want someone to.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.youtube.com/watch?v=Rub-JsjMhWY&vl=en">C++ in one hour</a></td>
+<td width="70%">Ok this one is a bit mental, but if your familiar with other languages, a good intro.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://github.com/jaem/yaml2htmlTables">HTML tables from YAML</a></td>
+<td width="70%">How these tables are generated. A YAML file holds all the information.
+Basically in a text, human readable database. The PERL script then 
+does the formatting creating this table to be cut and pasted into Wordpress.
+</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://jupyter.org">Jupyter Notebooks</a></td>
+<td width="70%">Jupyter Notebooks, use Python. Great way to learn python.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.anaconda.com/distribution">Python (anaconda)</a></td>
+<td width="70%">Anaconda, Python & R plus all the bits you need to go with them.
+</td>
+</tr>
+<tr>
+<td width="30%"><a href="http://sonic-pi.net">Sonic PI</a></td>
+<td width="70%">This is a fun way to get coding by making music. Download for Windows10, Mac, Raspberry PI.
+It really is awesome and you can make some crazy noises.
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Raspberry Pi</h4>
+Ok, this is a massive topic, but applicable to so many situations in life. 
+Use these skills in your spreadsheets, make games, or just try and keep up 
+with your kids for a bit.
+
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://thepihut.com/products/raspberry-pi-4-desktop-kit">DesktopKit</a></td>
+<td width="70%">Want to turn your TV into a computer and use a Raspberry Pi4? 
+You can get this kit about £115. You can also get all the accessories yourself.
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Reading resources</h4>
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://www.midlothian.gov.uk/info/1594/using_the_library/389/eresources">Midlothian E Resources</a></td>
+<td width="70%">Free ebooks & newspapers from Midlothian Library Service</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Staying Fit</h4>
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://www.daleyfitness.com">Daley Fitness</a></td>
+<td width="70%"></td>
+</tr>
+</tbody>
+</table>
+
+

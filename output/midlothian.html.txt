@@ -1,5 +1,5 @@
-<h4>All about Covid-19 in UK Info</h4>
-During these unprecedented events track whats going on locally with COVID-19
+<h4>All about SARS-COV-2/Covid-19 in the UK</h4>
+During these unprecedented events track whats going on locally with the Virus SARS-COV-2 and the dieease it causes, COVID-19
 <table width="100%"  style='font-size:80%'>
 <thead></thead>
 <tr>
@@ -8,6 +8,10 @@ During these unprecedented events track whats going on locally with COVID-19
 </tr>
 </thead>
 <tbody>
+<tr>
+<td width="30%"><a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html">GlobalCases</a></td>
+<td width="70%">Global case visualisation.</td>
+</tr>
 <tr>
 <td width="30%"><a href="https://www.nhsinform.scot/coronavirus">NHS Scot Cv19</a></td>
 <td width="70%">NHS Scotland Information</td>
@@ -35,6 +39,10 @@ During these unprecedented events track whats going on locally with COVID-19
 <tr>
 <td width="30%"><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen">WHO Latest</a></td>
 <td width="70%">World Health Organisation latest updates</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.worldometers.info/coronavirus">Worldometer</a></td>
+<td width="70%">Global stats, grim reading.</td>
 </tr>
 </tbody>
 </table>
@@ -86,6 +94,23 @@ During these unprecedented events track whats going on locally with COVID-19
 </table>
 
 
+<h4>Food</h4>
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://www.facebook.com/roslintableonthegreen">RoslinTableOnTheGreen</a></td>
+<td width="70%">Milk, Eggs and Penicuik Storehouse pickup.</td>
+</tr>
+</tbody>
+</table>
+
+
 <h4>Personal protection</h4>
 <table width="100%"  style='font-size:80%'>
 <thead></thead>
@@ -102,6 +127,47 @@ During these unprecedented events track whats going on locally with COVID-19
 <tr>
 <td width="30%"><a href="https://www.smartairfilters.com/en/blog/n95-mask-surgical-prevent-transmission-coronavirus">Mask effectiveness</a></td>
 <td width="70%">What facemasks work best at preventing transmission</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4>Science Papers & Links</h4>
+<table width="100%"  style='font-size:80%'>
+<thead></thead>
+<tr>
+<th width="30%">Link</th>
+<th width="70%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="30%"><a href="https://news.ohsu.edu/2013/12/17/study:-moderate-alcohol-consumption-boosts-bodys-immune-system">Alcohol consumption</a></td>
+<td width="70%">Study: Moderate alcohol consumption boosts bodys immune system</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.bbc.com/future/article/20200317-covid-19-how-long-does-the-coronavirus-last-on-surfaces">BBC SARS-CoV-2 on surfaces</a></td>
+<td width="70%">Links to lots of interesting papers, some linked below.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2004973">SARS-CoV-2 Aersol Stability</a></td>
+<td width="70%">Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2">SARS-CoV-2 Disenfectants</a></td>
+<td width="70%">Effective disenfectants.</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.medrxiv.org/content/10.1101/2020.03.23.20041913v1.full.pdf">SARS-CoV-2 Dutch Hospital</a></td>
+<td width="70%">SARS CoV 2 infection in 86 healthcare workers in two Dutch hospitals in March 2020</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.nature.com/articles/s41591-020-0817-4">SARS-CoV-2 in your poo</a></td>
+<td width="70%">Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding</td>
+</tr>
+<tr>
+<td width="30%"><a href="https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext">SARS-CoV-2 on surfaces</a></td>
+<td width="70%">Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents</td>
 </tr>
 </tbody>
 </table>

@@ -16,9 +16,12 @@ councilArea :
         email: "Optional Email address"
         desc : "Optional description"
 
+##-----------------------------------------------------------------------------
+## 
+##-----------------------------------------------------------------------------
 midlothian :
-  "All about Covid-19 in UK Info":
-    desc : "During these unprecedented events track whats going on locally with COVID-19"
+  "All about SARS-COV-2/Covid-19 in the UK":
+    desc : "During these unprecedented events track whats going on locally with the Virus SARS-COV-2 and the dieease it causes, COVID-19"
     links : 
       RoslinCv19Resiliance:
         web : "www.facebook.com/groups/2840082389420608"
@@ -38,11 +41,17 @@ midlothian :
       "UK Gov Cv19 Stats":
         web : "www.gov.uk/government/publications/covid-19-track-coronavirus-cases"
         desc: "UK government statistics. CSV's available for download"
+      "GlobalCases":
+        web : "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html"
+        desc: "Global case visualisation."
+      "Worldometer":
+        web : "www.worldometers.info/coronavirus"
+        desc: "Global stats, grim reading."
       "RV AtHome":
         web : "www.roslinvillage.com/athome"
         desc: "Links to stuff to do for all ages"
 
-  "Personal protection": 
+  "Personal protection":
     desc  : ""
     links : 
      "DIY Mask":
@@ -51,7 +60,8 @@ midlothian :
      "Mask effectiveness":
         web : "www.smartairfilters.com/en/blog/n95-mask-surgical-prevent-transmission-coronavirus"
         desc: "What facemasks work best at preventing transmission"
-  "Facebook Groups (Roslin and local area)": 
+
+  "Facebook Groups (Roslin and local area)":
     desc  : ""
     links : 
       "Roslin Coranvirus Resilience":
@@ -67,13 +77,304 @@ midlothian :
         desc : "Local Penicuik Coronavirus Resilience"
       ## etc, this list can keep growing
 
+  "Food":
+    desc: ""
+    links :
+      "RoslinTableOnTheGreen":
+        web: "https://www.facebook.com/roslintableonthegreen"
+        desc: "Milk, Eggs and Penicuik Storehouse pickup."
+
   "Community Groups":
     desc  : ""
     links : 
-      "Red Cross Penicuik" : 
+      "Red Cross Penicuik" :
          tel : "01316540340"
          desc: "Telephone welfare calls and emergency food shopping for people"
-      "Changeworks Affordable Warmth" : 
+      "Changeworks Affordable Warmth" :
          email : warmth@changeworks.org.uk
          desc  : "Stopped doing home visits. They can still help clients over the phone or online"
+
+  "Science Papers & Links":
+    desc  : ""
+    links : 
+      "BBC SARS-CoV-2 on surfaces" : 
+        web  : "www.bbc.com/future/article/20200317-covid-19-how-long-does-the-coronavirus-last-on-surfaces"
+        desc: "Links to lots of interesting papers, some linked below."
+      "SARS-CoV-2 Dutch Hospital" : 
+        web  : "www.medrxiv.org/content/10.1101/2020.03.23.20041913v1.full.pdf"
+        desc: "SARS CoV 2 infection in 86 healthcare workers in two Dutch hospitals in March 2020"
+      "SARS-CoV-2 Aersol Stability" : 
+        web  : "www.nejm.org/doi/full/10.1056/NEJMc2004973"
+        desc: "Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1"
+      "SARS-CoV-2 in your poo" : 
+        web  : "www.nature.com/articles/s41591-020-0817-4"
+        desc: "Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding"
+      "SARS-CoV-2 on surfaces" : 
+        web  : "www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext"
+        desc: "Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents"
+      "SARS-CoV-2 Disenfectants" : 
+        web  : "www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2"
+        desc: "Effective disenfectants."
+      "Alcohol consumption":
+        web: "https://news.ohsu.edu/2013/12/17/study:-moderate-alcohol-consumption-boosts-bodys-immune-system"
+        desc : "Study: Moderate alcohol consumption boosts bodys immune system"
+
+      # "SARS-CoV-2 on surfaces" : 
+      #   web  : ""
+      #   desc: ""
+
+##-----------------------------------------------------------------------------
+## Useful links to lots of stuff
+##-----------------------------------------------------------------------------
+athome :
+  ##---------------------------------------------------------------------------
+  "Staying Fit":
+    desc  : ""
+    links : 
+      "Daley Fitness" : 
+        web  : "www.daleyfitness.com"
+
+  "Kung Fu":
+    desc  : ""
+    links : 
+      "Grandmaster Yip Man" : 
+        web  : "www.youtube.com/watch?v=0YnEm1zaUyE"
+        desc : "The first FREE release of Ip Man doing the 3 forms Sil Lim Tao, Chum Kiu and Mok Jang Jong in High Quality"
+
+      "Wing Chun: Siu Nim Tao" : 
+        web  : "www.youtube.com/watch?v=UBrYwToDq94"
+        desc : "An analysis of the first part of Siu Nim Tao"
+
+      "Wing Chun: Muk Jong" : 
+        web  : "https://youtu.be/yYmIIU8qRhQ"
+        desc : "Wing Chun Muk Jong (Wooden Dummy)"
+
+
+  ##---------------------------------------------------------------------------
+  "Reading resources":
+    desc  : ""
+    links : 
+      "Midlothian E Resources" : 
+        web  : "www.midlothian.gov.uk/info/1594/using_the_library/389/eresources"
+        desc: "Free ebooks & newspapers from Midlothian Library Service"
+
+  ##---------------------------------------------------------------------------
+  "DIY":
+    desc  : "There is always room for home improvements, or maybe build your own log cabin"
+    links : 
+      "Off Grid Log Cabin" : 
+        web  : "www.youtube.com/watch?v=E_6b_cwuB6A"
+        desc: "Building a log cabin with a chainsaw, getting the walls up."
+
+  ##---------------------------------------------------------------------------
+  "Programming":
+    desc  : |
+            Ok, this is a massive topic, but applicable to so many situations in life. 
+            Use these skills in your spreadsheets, make games, or just try and keep up 
+            with your kids for a bit.
+    links : 
+      "Ask on RoslinShare" :
+        web  : "www.facebook.com/groups/380562265421991"
+        desc: "There are plenty coding resources online and coders in the Village, if you want someone to."
+
+      "Sonic PI" :
+        web  : "http://sonic-pi.net"
+        desc: |
+             This is a fun way to get coding by making music. Download for Windows10, Mac, Raspberry PI.
+             It really is awesome and you can make some crazy noises.
+
+      "Python (anaconda)" :
+        web  : "https://www.anaconda.com/distribution"
+        desc: |
+             Anaconda, Python & R plus all the bits you need to go with them.
+
+      "C++ in one hour" :
+        web  : "www.youtube.com/watch?v=Rub-JsjMhWY&vl=en"
+        desc: "Ok this one is a bit mental, but if your familiar with other languages, a good intro."
+
+      "Jupyter Notebooks" :
+        web  : "https://jupyter.org"
+        desc: "Jupyter Notebooks, use Python. Great way to learn python."
+
+      "HTML tables from YAML" :
+        web  : "https://github.com/jaem/yaml2htmlTables"
+        desc: |
+             How these tables are generated. A YAML file holds all the information.
+             Basically in a text, human readable database. The PERL script then 
+             does the formatting creating this table to be cut and pasted into Wordpress.
+
+  ##---------------------------------------------------------------------------
+  "Raspberry Pi":
+    desc  : |
+            Ok, this is a massive topic, but applicable to so many situations in life. 
+            Use these skills in your spreadsheets, make games, or just try and keep up 
+            with your kids for a bit.
+    links : 
+      "DesktopKit" :
+        web  : "https://thepihut.com/products/raspberry-pi-4-desktop-kit"
+        desc: |
+               Want to turn your TV into a computer and use a Raspberry Pi4? 
+               You can get this kit about £115. You can also get all the accessories yourself.
+
+  ##---------------------------------------------------------------------------
+  "Kids Online Resources":
+    desc  : |
+            Kids Learning (some Harvested from RoslinCoronaVirusResiliance FB.)
+            Not all of these are free, but offer free content alongside couurses etc.
+    links : 
+      "Outschool" :
+        web  : "https://outschool.com/"
+        desc: ""
+      
+      "brainpop" :
+        web  : "www.brainpop.com"
+        desc: "BrainPOP is here to help you and your curious learners stay informed and on-track with free access during school closures"
+      
+      "tynker" :
+        web : "https://www.tynker.com/"
+        desc: "Coding Made Easy. Everything needed to learn computer programming the fun way! Ages 5+"
+      
+      "CurriculumAssociates" :
+        web : "https://www.curriculumassociates.com/supporting-students-away-from-school"
+        desc: "Printable At-Home Learning Activity Packs"
+      
+      "BeastAcademy" :
+        web : "www.beastacademy.com"
+        desc: "A Complete Math Curriculum Recommended for Ages 8 to 13"
+      
+      "KhanAcademy" :
+        web : "www.khanacademy.org/"
+        desc: "A nonprofit with the mission to provide a free, world class education for anyone, anywhere"
+      
+      "CreativeBug" :
+        web : "https://www.creativebug.com/"
+        desc: "Keep your hands active and your mind engaged with Creativebug"
+
+      "DiscoveryEducation" :
+        web : "www.discoveryeducation.co.uk/"
+        desc: "Discovery Education is a trusted partner for schools."
+
+  ##---------------------------------------------------------------------------
+  "Kids YouTube Channels":
+    desc  : |
+            Kids Learning (some Harvested from RoslinCoronaVirusResiliance FB)
+            Some of these really are awesome!!!!
+    links : 
+      "Crash Course Kids" :
+        web  : "https://www.youtube.com/user/crashcoursekids/videos"
+        desc: "This bi-weekly show from the producers of Crash Course is all about gradeschool science. We'll look at Earth, Habitats, Space, Chemical Reactions, Engineering, and much much more with host Sabrina Cruz. So, join us every Tuesday and Thursday for new uploads"
+      "Science Channel" :
+        web  : "www.youtube.com/user/ScienceChannel/videos"
+        desc: "Learn about outer space, leading scientific exploration, new technology, earth science basics, & more with science videos & news from Science Channel"
+      "SciShow Kids" :
+        web  : "www.youtube.com/user/scishowkids/videos"
+        desc: "SciShow Kids explores all those curious topics that make us ask why?" 
+      "National Geographic Kids" :
+        web  : "www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg/videos"
+        desc: "Nat Geo Kids makes it fun to explore your world with weird, wild, and wacky videos! Videos featuring awesome animals, cool science, funny pets, and more, are made just for curious kids like you."
+      "Free School" :
+        web  : "www.youtube.com/user/watchfreeschool/videos"
+        desc: "FreeSchool is a safe and friendly place to expose children to famous art, classical music, children's literature, and natural science in an age-appropriate and kid-accessible way"
+      "Geography Focus" :
+        web  : "www.youtube.com/channel/UC8HYERScBt-e0kV0fpe0asg/videos"
+        desc: "The GEOfocus channel is all about geography! I love geography, maps, flags, culture, languages, and travel."
+      "TheBrainScoop" :
+        web  : "www.youtube.com/user/thebrainscoop/videos"
+        desc: "I'm Emily, the Chief Curiosity Correspondent of The Field Museum in Chicago, former volunteer of the University of Montana Zoological Museum."
+      "SciShow" :
+        web  : "www.youtube.com/user/scishow/videos"
+        desc: "SciShow explores the unexpected. Seven days a week, Hank Green, Michael Aranda, and Olivia Gordon delve into the scientific subjects that defy our expectations and make us even more curious!"
+      "Kids Learning Tube" :
+        web  : "www.youtube.com/channel/UC7EFWpvc1wYuUwrtZ_BLi9A/videos"
+        desc: "Kids Learning Tube educates kids through music and animation in a fun and unique approach to learning."
+      "Geek Gurl Diaries" :
+        web  : "www.youtube.com/user/GeekGurlDiaries/videos"
+        desc: "Like Raspberry Pi, Arduino, Python, Programming, Computer Science, Logic, Electronics, and being geeky and awesome? I do, so I started to make videos for people like me!"
+      "Mike Likes Science" :
+        web  : "www.youtube.com/user/comaniddy/videos"
+        desc: "Hi I'm Mike! Welcome to my YouTube channel. I like learning and helping people learn. So every month or so, I make science inspired music videos."
+      "Science Max" :
+        web  : "www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw/videos"
+        desc: "Have you ever done a science experiment and wondered What would this be like if it were HUGE?"
+      "SoulPancake" :
+        web  : "www.youtube.com/user/soulpancake/videos"
+        desc: "SoulPancake tackles the universality of the human experience. We are the dreamers, misfits, artists, activists, and innovators who have the power to positively change the world."
+
+  ##---------------------------------------------------------------------------
+  "Kids Courses Free":
+    desc  : "Note. some of these are American, in naming, grade for example."
+    links : 
+      "Scholastic" :
+        web  : "https://classroommagazines.scholastic.com/support/learnathome.html/"
+        desc: |
+              Scholastic has created a free learn-from-home site with 20+ days of learning and activities
+      "Homeschool curriculum" :
+        web  : "https://allinonehomeschool.com"
+        desc: |
+              Free Christian Homeschool curriculum
+      "thinking games by grade" :
+        web  : "https://allinonehomeschool.com/thinking"
+        desc: "List of thinking games by grade by allinonehomeschool"
+
+  ##---------------------------------------------------------------------------
+  "Kids Courses Freeish":
+    desc  : "More free(ish) learning websites. Let us know if you think any should be removed."
+    links : 
+      "starfall" :
+        web  : "www.starfall.com"
+        desc : "At Starfall, children have fun while they learn."
+      "abcya" :
+        web  : "www.abcya.com"
+        desc : "Educational Games for Kids"
+      "funbrain" :
+        web  : "www.funbrain.com"
+        desc : "More learning games for kids"
+      # "splashlearn" :
+      #   web  : "www.splashlearn.com"
+      #   desc : ""
+      "storylineonline" :
+        web  : "www.storylineonline.net"
+        desc : "Award-winning childrens literacy website"
+      "pbskids" :
+        web  : "https://pbskids.org"
+        desc : "PBS KIDS is committed to making a positive impact on the lives of children through curriculum based entertainment"
+      "highlightskids" :
+        web  : "www.highlightskids.com"
+        desc : "Activities and games for kids"
+      "nationalgeographic" :
+        web  : "https://kids.nationalgeographic.com"
+        desc : "Find engaging and curriculum-led teaching ideas and accompanying resource sheets aligned with the National Curriculum and the Scottish Curriculum for Excellence"
+      "coolmath4kids" :
+        web  : "www.coolmath4kids.com"
+        desc : "Math games for kids"
+      # "mathgametime" :
+      #   web  : "www.mathgametime.com"
+      #   desc : ""
+      "uniteforliteracy" :
+        web  : "www.uniteforliteracy.com"
+        desc : "At Unite for Literacy, we picture a world where all children have access to an abundance of books that celebrate their languages and cultures and cultivate a lifelong love of reading."
+      # "literactive" :
+      #   web  : "www.literactive.com"
+      #   desc : ""
+      "sciencekids" :
+        web  : "www.sciencekids.co.nz"
+        desc : "Science Kids is the online home of science & technology for children around the world."
+      "switchzoo" :
+        web  : "www.switchzoo.com"
+        desc : "Animal games"
+      "seussville" :
+        web  : "www.seussville.com"
+        desc : "All things Dr Seuss"
+      "turtlediary" :
+        web  : "www.turtlediary.com"
+        desc : "Fun Educational and Online Games for Kids"
+      "e-learningforkids" :
+        web  : "www.e-learningforkids.org"
+        desc : "Free and fun digital education for all children worldwide"
+
+# ##-----------------------------------------------------------------------------
+# ## 
+# ##-----------------------------------------------------------------------------
+
+
 
