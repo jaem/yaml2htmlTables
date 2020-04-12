@@ -347,15 +347,9 @@ athome :
       "coolmath4kids" :
         web  : "www.coolmath4kids.com"
         desc : "Math games for kids"
-      # "mathgametime" :
-      #   web  : "www.mathgametime.com"
-      #   desc : ""
       "uniteforliteracy" :
         web  : "www.uniteforliteracy.com"
         desc : "At Unite for Literacy, we picture a world where all children have access to an abundance of books that celebrate their languages and cultures and cultivate a lifelong love of reading."
-      # "literactive" :
-      #   web  : "www.literactive.com"
-      #   desc : ""
       "sciencekids" :
         web  : "www.sciencekids.co.nz"
         desc : "Science Kids is the online home of science & technology for children around the world."
